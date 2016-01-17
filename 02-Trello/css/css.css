@@ -1,10 +1,15 @@
+/*
+Noemi Hernandez Angeles
+10ITI1
+Diseño pagina Trello
+*/
 body{
-    font-family: Helvetica, sans-serif;
-	margin: 0 auto;
+    font-family:"jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    color: #4D4D4D;
+    margin: 0px;
 	width:100%;
     height: 100%;
     text-align: center;
-    align-content: center;
 }
 #btn1{
     background: #61bd4f;
@@ -22,9 +27,19 @@ body{
      width: 290px;
     height: 45px;
     font-size: 16px;
-    font:Helvetica;
-    color: blue;
+    border-radius: 5px;
+    border-bottom-color: #0079bf;
+    padding: 10px;
+    color:  #0079bf;
+}
+#btn3{
+     background: transparent;
+     width: 360px;
+    height: 45px;
+    font-size: 16px;
+    color: white;
     border-radius: 10px;
+    padding: 10px;
     padding: 10px;
 }
 #parte1{
@@ -32,233 +47,201 @@ body{
     height: 100%;
     padding-top: 100px;
     padding: 100px;
+    color:#4d4d4d;
+    font-size: 22px;
 }
 #img1{
-    margin-left: 400px;
+    margin-right:17%;
 }
-#slogan{
-    width: 800px;
-    margin-left: 100px;
-   text-align: center;
+#p{
+    width: 60%;
+    align-content: center;
+    margin-left: 10%;
+    text-align: center;  
 }
-#slogan2{
-    width: 550px;
-    margin-left: 120px;
-}
-#pt1{
-    width: 500px; 
-    font-size: 23px;
-    color: #4D4D4D;
-    font: Helvetica;
-    font-weight: bold;
-}
-#ptt1{
-    width: 800px;
-    margin-left: 150px;
-    font-size: 18px;
-     color: #4D4D4D;
-    font: Helvetica;
-}
-#pttt1{
-    padding-top: 110px;
-    padding: 20px;
-    width: 1070px;
-    padding-top: 30px;
+#p2{
+    width: 40%;
+     margin-left: 20%;
+    align-content: center;
+    text-align: center;  
 }
 #parte2{
     background: #0079bf;
     align-content: center;
     color: white;
+    font-size: 20px;
     width: 100%;
     height: 100%;
     padding-top: 70px;
     padding: 70px;
 }
 #img2{
-    width: 1050px;
+    width: 90%;
+    margin-right: 10%;
 }
-#p2{
-   width: 100%; 
-   height:100%;
-}
-#pt2{
-    width: 500px;
-    margin-left: 290px;
-    padding: 30px;
-}
-#ptt2{
-    width: 100px;
-    height: 300px;
-    padding: 10px;
-}
-#pttt2{
-     width: 600px;
-    margin-top: 240px;
-    margin-left: 220px;
-    padding: 30px;
+#p3{
+    width: 60%;
+    margin-left: 15%;
+    text-align: left;  
 }
 #parte3{
-     background:white;
+    background:white;
     align-content: center;
     width: 100%;
     height: 100%;
-    padding-top: 100px;   
+    padding-top: 100px; ;
+    margin: 0px;
+    border: 0px;
+    color: #4D4D4D;
+    font-size: 20px;
 }
-#pt3{
-    width: 600px;
-    margin-left: 300px;
+#p4{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;  
 }
 #img3{
-    width: 600px;
-    padding-top: 30px;  
+    border: 0px;
 }
-
 #parte4{
-    background:#e4f0f6; 
+     background:#e4f0f6; 
     padding-top: 100px;
     padding: 100px;
     width: 100%;
+    color: #4D4D4D;
+    font-size: 20px;
     height: 100%;
 }
-#pt41{
-    width: 470px;
-   margin-left: 190px;
-   font-size: 18px; 
-   text-align: left;
-}
-#img4{
-   margin-left: 12px;
-   text-align: left;
-}
-#img5{
-   margin-left: 10px;
-   text-align: right;
-}
-#btn3{
-   width: 300px;
-   margin-left: 180px;
-   border-radius: 10px;
-   color:deepskyblue;
-   background-color: transparent;
-   border-bottom-color: aqua;
-   font-size: 16px;
-   font:Helvetica;
-   padding-bottom: 2px;
-   padding: 20px;
-   display: block;
+#pt4{
+    display: inline-block;
+    width: 40%;
+    text-align: left;
 }
 #img6{
-    width: 350px;
-    height: 180px;
-    margin-right: 120px;
+    width: 90%;
 }
-#a1{
-    width: 50%;
-    float: left;
+#btn21{
+    margin-top: 400px;
+    margin-left: 400px:
 }
 #parte5{
-    padding-top: 100px;
-    padding: 100px;
+     padding-top: 30px;
+    padding: 30px;
+    text-align: center;
+    color: #4D4D4D;
+    font-size: 22px;
+}
+#pt5{
+    display: inline-block;
+    width: 450px;
+}
+#txt1{
+    width: 560px;
+    text-align: center;
+    vertical-align: middle;
+}
+#img7{
+    margin-left: 30%;
+    text-align: right;
 }
 #parte6{
-   background: #0079bf;
+     background: #0079bf;
     text-align:center;
-    align-content: center;
     color: white;
+    font-size: 20px;
     width: 100%;
     height: 100%;
     float: left;
-    padding-top: 100px;
-    padding: 100px;   
+    padding-top: 90px;
+    padding: 90px;  
+    margin-right: 20px;
 }
-#img7{
-    width: 200px;
-    height: 130px;
-    margin-right: 30px;
-}
-#txt1{
-    width: 800px;
-    margin-left: 110px;
-}
-#xd{
-    width: 80px;
-    padding: 25px;
+#txt2{
+    margin-right: 80px;
 }
 #imglista{
-    display: inline;
-    margin-left: 45px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
 }
-#imglista2{
-    display: inline;
-    margin-left: 45px;
+#imgimg{
+    margin-right: 150px;
 }
 #parte7{
     background: #42548e;
-    padding-top: 100px;
-    padding: 100px;
+    padding-top: 90px;
+    padding: 80px;
     width: 100%;
     height: 100%;
-}
-#pt7{
-    width: 100%;
-    height: 500px;
-}
-#ap71{
-    width: 50%;
-    float: left;
-    padding-top: 30px;
-    padding: 30px; 
-}
-#ap72{
-    display:block;
-    color: white;
-    width: 50%;
-    float: left;
-}
-#parrafo{
-    width: 450px;
-    margin-left: 520px;
-}
-#parrafoM{
-    margin-left: 550px;
-}
-#parrafo2{
-    background: transparent;
-    width: 390px;
-    height: 50px;
-    font-size: 16px;
-    font:Helvetica;
-    color: white;
-    border-radius: 10px;
-    padding: 10px;
-}
-#img17{
-    width: 400px;
-    height: 110px;
-    margin-right: 200px;
-}
-#pt81{
-    padding-top: 80px;
-    width: 420px;
-    height: 300px;
-    margin-left: 390px;    
     font-size: 20px;
 }
-#parte9{
-   background: #0079bf;
-    text-align:center;
-    align-content: center;
-    color: white;
-    width: 100%;
-    height: 100%;
-    float: left;
+#img17{
+    padding-top: 80px;
+    height:130px;
+}
+#imagen{
+    width: 30%;
+    margin-left: 1%;
+    margin-right: 70px;
+    text-align: left;
+    display: inline-block;
+}
+#btna{
+    margin-right: 60%;
+}
+#txt6{
+    color:#fff;
+    padding: 0;
+    font-size: 0.9em;
+    text-align: left;
+    padding-right:20%;
+}
+#texto{
+    padding-top: 80px;
+    width:50%;
+    display: inline-block;
+}
+#parte8{
     padding-top: 50px;
     padding: 50px;
+     color: #4D4D4D;
+    font-size: 20px;
 }
-#pt91{
-    margin-left: 120px;
+#txt7{
+    padding: 2%;
+    width: 45%;
+    margin-left: 23%;
+}
+
+#parte9{
+    background: #0079bf;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+   
+}
+#pttt{
+    display: inline-block;
+    padding-left: 30px;
+    height: 100%;
+    vertical-align: middle;
+}
+#img18{
+    text-align: left;
+    padding-top: 10px;
+    
+}
+#txt9{
+    width: 500px;
+    text-align: left;
 }
 footer{
-    padding-top: 100px;
-    padding: 50px;
+     padding: 40px;
+    font-size: 17px;
+    color: #999;
+}
+#opciones{
+    color: #999;
 }
