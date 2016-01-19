@@ -1,0 +1,75 @@
+body{
+     margin: 0px auto;
+    border: 0px auto;
+    padding: 0px auto;
+    font-family:Roboto, Helvetica, Arial, sans-serif;
+        
+}
+#div{
+    width: 100%;
+    position: fixed;
+    background: white;
+    padding-top: 15px;
+    padding: 15px;
+    display: inline;
+}
+#btn1{
+    background: red;
+    width: 120px;
+    height: 45px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 30px;
+}
+#img1{
+    width: 137px;
+    height: 27px;
+}
+#combo{
+    background: transparent;
+    border: 0px;
+    padding-left: 15px;
+}
+#dimg{
+    width: 40%;
+    float: left;
+    padding: 7px;
+}
+#div3{
+    width: 41%;
+   float: right;
+    padding-left: 60px;
+}
+#opciones{
+    padding-left: 15px;
+    display: inline;
+}
+#imgb{
+    width: 23px;
+    height: 23px;
+}
+#img2{
+    width: 290px;
+    height: 350px;
+}
+#jquery{
+    width: 100%;
+    height: 25%;
+    background: black;
+}
+
+#parte1{
+    padding-top: 73px;
+    background: darkturquoise;
+    text-align: center;
+}
+#txt1{
+    position: relative; right: 10px; bottom: 90px;
+    color: white;
+    padding: 15px;
+}
+
+#parte2{
+    padding: 60px;
+    text-align: center;    
+}

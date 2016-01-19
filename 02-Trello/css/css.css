@@ -4,7 +4,7 @@ Noemi Hernandez Angeles
 Diseño pagina Trello
 */
 body{
-    font-family:"jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-family:jaf-facitweb,Helvetica,Arial,sans-serif;
     color: #4D4D4D;
     margin: 0px;
 	width:100%;
@@ -76,7 +76,7 @@ body{
     padding: 70px;
 }
 #img2{
-    width: 90%;
+    width: 1100px;
     margin-right: 10%;
 }
 #p3{
@@ -114,11 +114,11 @@ body{
 }
 #pt4{
     display: inline-block;
-    width: 40%;
+    width: 500px;
     text-align: left;
 }
 #img6{
-    width: 90%;
+    width: 400px;
 }
 #btn21{
     margin-top: 400px;
@@ -180,7 +180,7 @@ body{
     height:130px;
 }
 #imagen{
-    width: 30%;
+    width: 400px;
     margin-left: 1%;
     margin-right: 70px;
     text-align: left;
@@ -198,7 +198,7 @@ body{
 }
 #texto{
     padding-top: 80px;
-    width:50%;
+    width:900px;
     display: inline-block;
 }
 #parte8{
