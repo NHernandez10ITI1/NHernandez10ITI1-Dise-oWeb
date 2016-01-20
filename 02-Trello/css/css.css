@@ -1,8 +1,3 @@
-/*
-Noemi Hernandez Angeles
-10ITI1
-Diseño pagina Trello
-*/
 body{
     font-family:jaf-facitweb,Helvetica,Arial,sans-serif;
     color: #4D4D4D;
@@ -70,10 +65,10 @@ body{
     align-content: center;
     color: white;
     font-size: 20px;
+    padding-top: 100px;
+    padding: 100px;
     width: 100%;
-    height: 100%;
-    padding-top: 70px;
-    padding: 70px;
+     height: 100%;
 }
 #img2{
     width: 1100px;
@@ -108,9 +103,10 @@ body{
     padding-top: 100px;
     padding: 100px;
     width: 100%;
+     height: 100%;
     color: #4D4D4D;
     font-size: 20px;
-    height: 100%;
+   
 }
 #pt4{
     display: inline-block;
@@ -149,12 +145,12 @@ body{
     text-align:center;
     color: white;
     font-size: 20px;
+   padding-top: 100px;
+    padding: 100px;
     width: 100%;
-    height: 100%;
+     height: 100%;
     float: left;
-    padding-top: 90px;
-    padding: 90px;  
-    margin-right: 20px;
+   
 }
 #txt2{
     margin-right: 80px;
@@ -169,10 +165,10 @@ body{
 }
 #parte7{
     background: #42548e;
-    padding-top: 90px;
-    padding: 80px;
+   padding-top: 100px;
+    padding: 100px;
     width: 100%;
-    height: 100%;
+     height: 100%;
     font-size: 20px;
 }
 #img17{
@@ -217,9 +213,10 @@ body{
     background: #0079bf;
     color: white;
     font-size: 20px;
+    padding-top: 100px;
+    padding: 100px;
     width: 100%;
-    height: 100%;
-    padding: 20px;
+     height: 100%;
    
 }
 #pttt{
