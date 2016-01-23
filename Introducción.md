@@ -4,4 +4,4 @@
                                             
                                                   10ITI1
                                               
-                                En este repositorio se guardaran todos las practicas de la asignatura Diseño de Aplicaciones Web
+                     En este repositorio se guardaran todos las practicas de la asignatura Diseño de Aplicaciones Web
