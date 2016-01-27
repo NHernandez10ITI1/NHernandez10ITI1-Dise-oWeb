@@ -90,7 +90,7 @@ div{ width: 100%;}
     vertical-align: inherit;
 }
 #carro{
-    width: 25%;
+    width: 30%;
     overflow: hidden;
     padding-left: 289px;
 }
@@ -113,7 +113,7 @@ div{ width: 100%;}
 #img6{
     width: 270px;
     height: 200px;
-    padding-left: 30px;
+    padding-left: 40px;
     padding-right: 30px;
 }
 #img7{
@@ -200,10 +200,10 @@ div{ width: 100%;}
     padding-top: 18px;
 }
 #back{
-    margin-left:  1100px; 
+    margin-left:  1150px; 
 }
 #chat{
-    margin-right: 950px;
+    margin-right: 1020px;
     padding-bottom: 20px;
 }
 #final{
@@ -212,6 +212,10 @@ div{ width: 100%;}
     text-align: left;
     padding-left: 20px;
     padding-bottom: 17px;
+}
+#jq{
+  width: 100%;
+    border-bottom: 1px solid #ccc;   
 }
 #footer2{
     width: 100%;
@@ -240,5 +244,5 @@ div{ width: 100%;}
 }
 #combo{
     width: 230px;
-    margin-left:  350px;
+    margin-left:  390px;
 }
