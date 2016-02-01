@@ -1,16 +1,65 @@
 body{
     font-family:jaf-facitweb,Helvetica,Arial,sans-serif;
     color: #4D4D4D;
-    margin: 0px;
-    width:85%;
-    text-align: center;
+    margin: 0 auto;
+    width:100%;
+    font-size: 20px;
+   text-align: center;
+}
+section{
+    width: 100%;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+h1{
+    font-size: 40px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+p{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+#img{
+    width: 80%;
+    margin-bottom: 0px;
+}
+#border{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.fondoazul{
+    background: #0079bf;
+    color: white;
+}
+.fondoazul p{
+    text-align: left;
+}
+.fondoclaro{
+     background:#e4f0f6; 
+}
+.fondomorado{
+    background: #42548e;
+    color: white;
+}
+.separador{
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+}
+.separador p{
+    padding: 0px;
+    width: 90%;
+}
+.linea{
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 15px;
 }
 #btn1{
     background: #61bd4f;
     width: 270px;
     height: 45px;
-    font-size: 20px;
-    font:Helvetica;
     font-weight: bold;
     color: white;
     border-radius: 10px;
@@ -27,8 +76,8 @@ body{
     color:  #0079bf;
 }
 #btn3{
-     background: transparent;
-     width: 360px;
+    background: transparent;
+    width: 360px;
     height: 45px;
     font-size: 16px;
     color: white;
@@ -36,198 +85,73 @@ body{
     padding: 10px;
     padding: 10px;
 }
-#parte1{
-	width:100%;
-    text-align: center;
-    padding-top: 100px;
-    padding: 100px;
-    color:#4d4d4d;
-    font-size: 22px;
-}
-#img1{
-    margin-right:17%;
-}
-#p{
-    width: 60%;
-    align-content: center;
-    margin-left: 10%;
-    text-align: center;  
-}
-#p2{
-    width: 40%;
-     margin-left: 20%;
-    align-content: center;
-    text-align: center;  
-}
-#parte2{
-    background: #0079bf;
-    align-content: center;
-    color: white;
-    font-size: 20px;
-    padding-top: 100px;
-    padding: 100px;
-    width: 100%;
-}
-#img2{
-    width: 1100px;
-    margin-right: 10%;
-}
-#p3{
-    width: 50%;
-    margin-left: 20%;
-    text-align: left;  
-}
-#parte3{
-    background:white;
-    align-content: center;
-    width: 100%;
-    padding-top: 100px; ;
-    margin: 0px;
-    border: 0px;
-    color: #4D4D4D;
-    font-size: 20px;
-}
-#p4{
-    width: 50%;
-    margin-left: 25%;
-    text-align: center;  
-}
-#img3{
-    border: 0px;
-}
-#parte4{
-     background:#e4f0f6; 
-    padding-top: 100px;
-    padding: 100px;
-    width: 100%;
-    color: #4D4D4D;
-    font-size: 20px;
-   
-}
-#pt4{
-    display: inline-block;
-    width: 500px;
-    text-align: left;
-}
-#img6{
-    width: 400px;
-}
-#btn21{
-    margin-top: 400px;
-    margin-left: 400px:
-}
-#parte5{
-     padding-top: 30px;
-    padding: 30px;
-    text-align: center;
-    color: #4D4D4D;
-    font-size: 22px;
-}
-#pt5{
-    display: inline-block;
-    width: 450px;
-}
-#txt1{
-    width: 560px;
-    text-align: center;
-    vertical-align: middle;
-}
-#img7{
-    margin-left: 30%;
-    text-align: right;
-}
-#parte6{
-    background: #0079bf;
-    text-align:center;
-    color: white;
-    font-size: 20px;
-    padding-top: 100px;
-    padding: 100px;
-    width: 100%;   
-}
-#txt2{
-    margin-right: 80px;
-}
-#imglista{
-    display: inline-block;
-    margin-right: 20px;
-    margin-left: 20px;
-}
-#imgimg{
-    margin-right: 100px;
-}
-#parte7{
-    background: #42548e;
-   padding-top: 50px;
-    padding: 100px;
-    width: 100%;
-    font-size: 20px;
-}
 #img17{
     padding-top: 20px;
     height:130px;
 }
-#imagen{
-    width: 350px;
-    margin-left: 1%;
-    text-align: left;
-    display: inline-block;
-}
-#btna{
-    margin-right: 60%;
-}
-#txt6{
-    color:#fff;
-    padding: 0;
-    font-size: 0.9em;
-    text-align: left;
-    padding-right:20%;
-}
-#texto{
-    padding-top: 80px;
-    width:600px;
-    display: inline-block;
-}
-#parte8{
-    padding-top: 50px;
-    padding: 50px;
-     color: #4D4D4D;
-    font-size: 20px;
-}
-#txt7{
-    padding: 2%;
-    width: 45%;
-    margin-left: 23%;
-}
-
-#parte9{
-    background: #0079bf;
-    color: white;
-    font-size: 20px;
-    padding-top: 100px;
-    padding: 100px;
-    width: 100%;
-}
-#pttt{
-    display: inline-block;
-    padding-left: 30px;
-    height: 100%;
-    vertical-align: middle;
-}
-#img18{
-    text-align: left;
-    padding-top: 10px;
-    
-}
-#txt9{
-    width: 500px;
-    text-align: left;
+#opciones{
+    color: #999;
 }
 footer{
-     padding: 40px;
+    padding: 40px;
     font-size: 17px;
     color: #999;
 }
-#opciones{
-    color: #999;
+
+/*SMART PHONE*/
+@media only screen and (max-width: 480px){
+    body{
+        background: antiquewhite;
+        font-size: 16px;
+    }
+    section{
+        padding-top: 2%;
+        padding-bottom:2%;
+    }
+    #btn1,#btn2,#btn3{
+        width: auto;
+    }
+    .separador{
+        width: 90%;
+        display: block;
+        padding-left: 5%;
+    }
+    h1{
+        font-size: 20px;
+    }
+    p{
+    padding-left: 5%;
+    padding-right: 5%;
+   }
+}
+/*TABLETS*/
+@media only screen and (min-width: 481px) and (max-width: 720px){
+    body{
+        background: #0079bf;
+    }
+     section{
+        padding-top: 2%;
+        padding-bottom:2%;
+    }
+    #btn1,#btn2,#btn3{
+        width: auto;
+    }
+    .separador{
+        width: 90%;
+        display: block;
+        padding-left: 5%;
+    }
+    h1{
+        font-size: 20px;
+    }
+    p{
+    padding-left: 5%;
+    padding-right: 5%;
+   }
+}
+/*COMPUTADORAS*/
+@media only screen and (min-width: 721px) and (max-width: 1280px){
+	  body{
+        background:#e4f0f6; 
+    }   
 }
